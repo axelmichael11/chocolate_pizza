@@ -1,0 +1,48 @@
+* {
+  border: 1px solid pink;
+}
+#body-page {
+
+}
+
+#heading {
+
+
+}
+
+#social-media {
+  float:right;
+  display:inline-block;
+  margin: 0px auto;*/
+}
+
+#delicious {
+  display: inline;
+
+}
+
+h3 {
+  font-family: ‘Anton’, sans-serif;
+  font-size: 10px;
+}
+
+h2 {
+  font-family: ‘Yellowtail’, cursive;
+  font-size: 22px;
+  font-weight: bold;
+  display: inline-block;
+  margin: 0px auto;
+
+}
+
+h1 {
+  font-family: ‘Anton’, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#title h2 {
+  font-family: ‘Anton’, sans-serif;
+  font-size: 10px;
+  font-weight: lighter;
+}
