@@ -1,13 +1,7 @@
-* {
-  border: 1px solid pink;
-}
+
 #body-page {
-
-}
-
-#heading {
-
-
+  width:960px;
+  margin: 0 auto;
 }
 
 #social-media {
@@ -18,7 +12,12 @@
 
 #delicious {
   display: inline;
+  float:left;
 
+}
+
+.pizza {
+  width: 100%;
 }
 
 h3 {
@@ -41,8 +40,52 @@ h1 {
   font-weight: bold;
 }
 
+.clear-fix {
+  clear: both;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float:left;
+}
+
 #title h2 {
   font-family: ‘Anton’, sans-serif;
   font-size: 10px;
   font-weight: lighter;
+}
+
+#title h1 {
+  font-size: 25px;
+}
+
+form#right {
+  width: 40%;
+  display:inline-block;
+}
+
+form#left {
+  width: 40%;
+  display:inline-block;
+}
+
+li {
+  list-style: none;
+}
+
+button {
+  height: 30px;
+  width: 150px;
+}
+
+.fork {
+  margin: 0 auto;
+  display:block;
+}
+
+.copyright {
+  text-align: center;
 }
